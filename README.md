@@ -67,3 +67,7 @@ This simple chatbot can serve as a foundation for many real-world applications -
 **Conclusion**
 
 In summary, this Python script demonstrates how spaCy and simple Python logic can be combined to create a conversational AI that is capable of understanding natural language input and responding appropriately. The use of word vectors and similarity measures makes the chatbot more intelligent than simple keyword-matching systems, while the use of random responses adds a human-like variability to the conversation. Although this chatbot is relatively simple, it forms a solid foundation for more advanced AI assistants that can handle complex queries, integrate with APIs, and provide personalized interactions.
+
+**Output** 
+
+<img width="506" height="209" alt="Image" src="https://github.com/user-attachments/assets/fecb881d-d524-40c9-91b5-16b9629f7bbe" />
